@@ -1,0 +1,26 @@
+# Core Shiny and UI
+shiny
+faicons
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Machine learning and NLP
+sentence-transformers
+scikit-learn
+bertopic
+hdbscan
+umap-learn
+
+# Visualization
+plotly
+seaborn
+matplotlib
+
+# Text processing
+nltk
+
+# Optional: For better performance
+torch
+transformers
